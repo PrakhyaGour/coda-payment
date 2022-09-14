@@ -14,10 +14,10 @@ database_subnets = ["10.0.201.0/24", "10.0.202.0/24"]
 
 ecs_key_pair_name="KP124"
 
-github_token="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"
+github_token="XXXXXXX"
 
-aws_access_key = "AKIASB3T746XDRPHA5ZJ"
-aws_secret_key = "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"
+aws_access_key = "XXXXXX"
+aws_secret_key = "XXXXXXXXX"
 
 ecs_ami = {
   us-east-2      = "ami-64300001"
